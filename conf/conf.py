@@ -18,11 +18,11 @@ SCRIPT_CONFIG={
 	 'directories' : {
 	 	# Various directories used by automation
 	 	'original_script_directory' : os.getcwd(),
-		'home_dir' : ['C:\\Users\\zach.mcfadden\\Downloads','C:\\Users\\zach.mcfadden\\Pictures'],
+		'home_dir' : [],
 		'cur_dir' : '',
 		'source_drive' : 'C:',
 		'target_drive' : 'D:',
-		'destination_dir' : 'C:\\Users\\zach.mcfadden\\Desktop\\test_target'
+		'destination_dir' : ''
 	},
 	'os_cmds' : {
 		'os' : '',

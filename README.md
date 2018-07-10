@@ -14,8 +14,8 @@ Basically its for searching and copying over files :)
 
 ### Install and run:
 ```sh
-$ git clone
-$ cd python_media_copier
+$ git clone https://github.com/xxdunedainxx/python_media_mover.git
+$ cd python_media_mover
 $ python app.py
 ```
 
